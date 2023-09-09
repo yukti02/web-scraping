@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Sabrina 1 'Spark' EP",
+        "description": "Basketball Shoes",
+        "price": "MRP : ₹ 10 795.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/17ed15c1-353f-4051-bed6-69d350499a78/sabrina-1-spark-ep-basketball-shoes-ZK1Xwv.png"
+    },
+    {
+        "name": "Nike Air Max 97 Futura",
+        "description": "Women's Shoes",
+        "price": "MRP : ₹ 17 495.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d1d6624-c671-40d8-9ef7-602e2b1edb7d/air-max-97-futura-shoes-r0gfkM.png"
+    },
+    {
+        "name": "Jordan Max Aura 5",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 11 895.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0e761e04-0e37-4190-9c20-881ba03dbe71/jordan-max-aura-5-shoes-ZBZ4Pz.png"
+    },
+    {
+        "name": "Jordan Stay Loyal 2",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 10 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8ba3216b-1961-453e-9407-685cd6b3360d/jordan-stay-loyal-2-shoes-sDkgDk.png"
+    },
+    {
+        "name": "Nike ACG",
+        "description": "Men's T-Shirt",
+        "price": "MRP : ₹ 2 895.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9293199b-c415-4a50-83c6-9eff39ccb48e/acg-t-shirt-xlMJcq.png"
+    },
+    {
+        "name": "Nike Dri-FIT",
+        "description": "Men's Camo Fitness T-Shirt",
+        "price": "MRP : ₹ 1 795.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1ed877a6-f9e2-45ce-95a0-d97e48f0284e/dri-fit-camo-fitness-t-shirt-VLM1rV.png"
+    },
+    {
+        "name": "Nike Air",
+        "description": "Women's T-shirt",
+        "price": "MRP : ₹ 2 595.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bc37ebb7-4594-4da1-8fb5-8d0267f601ce/air-t-shirt-J69N9W.png"
+    },
+    {
+        "name": "NikeCourt Air Zoom GP Turbo Naomi Osaka Premium",
+        "description": "Women's Hard Court Tennis Shoes",
+        "price": "MRP : ₹ 13 995.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3bb76d24-3928-4d20-b5cf-72644e039f31/nikecourt-air-zoom-gp-turbo-naomi-osaka-hard-court-tennis-shoes-M7G8MB.png"
+    },
+    {
+        "name": "Air Jordan 1 Mid SE",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 12 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/619223ad-3916-4143-9568-d5ba663a5fe0/air-jordan-1-mid-se-shoes-CF3K5m.png"
+    },
+    {
+        "name": "Jordan Flight Essentials",
+        "description": "Men's T-Shirt",
+        "price": "MRP : ₹ 2 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7b87eb01-b3f0-488b-a650-35722eb6b956/jordan-flight-essentials-t-shirt-PV6T0c.png"
+    },
+    {
+        "name": "Jordan Essentials",
+        "description": "Men's Loopback Fleece Shorts",
+        "price": "MRP : ₹ 2 695.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4985c774-a0b0-4674-b8b0-d67271181049/jordan-essentials-loopback-fleece-shorts-dKZJPj.png"
+    },
+    {
+        "name": "Air Jordan XXXVIII 'FIBA' PF",
+        "description": "Basketball Shoes",
+        "price": "MRP : ₹ 18 395.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b207c97d-1d63-4e43-9339-375b26222ae2/air-jordan-xxxviii-fiba-pf-basketball-shoes-XnhFhP.png"
+    },
+    {
+        "name": "Air Jordan 1 Zoom CMFT 2",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 13 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4e9138d9-278f-48b1-851c-f4e51dbb4ee9/air-jordan-1-zoom-cmft-2-shoes-nX8Qqx.png"
+    },
+    {
+        "name": "Nike Air Flight Huarache",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 12 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7b12dffc-1c76-4076-9b6f-187d8c530951/air-flight-huarache-shoes-NHF1JD.png"
+    },
+    {
+        "name": "Air Jordan 1 Mid SE",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 12 295.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9248042-a711-4441-80bb-d566b0835c40/air-jordan-1-mid-se-shoes-tKS2kt.png"
+    },
+    {
+        "name": "Nike Sportswear",
+        "description": "Men's M90 T-Shirt",
+        "price": "MRP : ₹ 2 495.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/703209b4-a37b-4302-99ad-13b1818eafdd/sportswear-m90-t-shirt-8mFJMr.png"
+    },
+    {
+        "name": "Nike Therma-FIT",
+        "description": "Men's Full-Zip Fitness Hoodie",
+        "price": "MRP : ₹ 3 595.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/be6a86b8-33e2-4b76-b86a-e9dc88b6f059/fitness-hoodie-q8mv38.png"
+    },
+    {
+        "name": "Nike Air Max SYSTM",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 8 595.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/06744c72-6578-46e9-8590-ad689008cf7e/air-max-systm-shoes-hLmQ85.png"
+    },
+    {
+        "name": "Nike Dunk Low",
+        "description": "Women's Shoes",
+        "price": "MRP : ₹ 8 695.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/32d32b99-abc7-43f3-9d96-9be84c248d28/dunk-low-shoes-XB2cxd.png"
+    },
+    {
+        "name": "Nike Air Force 1 Low Billie",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 11 895.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7b2af16f-1bba-41f7-9e55-8b4ae3d30cfa/air-force-1-low-billie-shoes-w1BrLR.png"
+    },
+    {
+        "name": "Nike Air Force 1 Low Retro QS",
+        "description": "Men's Shoes",
+        "price": "MRP : ₹ 12 795.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/48002446-22e2-44fc-abcc-e8de39d6d87d/air-force-1-low-retro-qs-shoes-qTNDj8.png"
+    },
+    {
+        "name": "Air Jordan 1 Mid",
+        "description": "Women's Shoes",
+        "price": "MRP : ₹ 11 495.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e274f47a-32ff-49f6-b419-a6a7636368d7/air-jordan-1-mid-shoes-86f1ZW.png"
+    },
+    {
+        "name": "Nike DBreak Vintage",
+        "description": "Women's Shoes",
+        "price": "MRP : ₹ 9 695.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/af03d772-1863-481a-8496-a258fdb6b582/dbreak-vintage-shoes-W4Kv4L.png"
+    },
+    {
+        "name": "Jordan x UNION x Bephies Beauty Supply",
+        "description": "Men's T-Shirt",
+        "price": "MRP : ₹ 3 095.00",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c9513a48-ee45-43b4-a34f-910aaa124903/jordan-union-bephies-beauty-supply-t-shirt-mC8dzX.png"
+    }
+]
